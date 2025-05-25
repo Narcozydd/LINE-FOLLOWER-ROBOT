@@ -1,2 +1,2 @@
 # LINE-FOLLOWER-ROBOT
-This project is a simple line follower robot built using the e-Gizmo PBOT2018 platform. It uses three line sensors to detect and follow a black line on a white surface. The robot adjusts its movement in real-time based on sensor readings—moving forward, turning left or right, or reversing when necessary.
+This Arduino-based project enables a robot to autonomously follow a black line using three optical sensors. It is programmed using the eGizmo_PBOT2018.h library, which handles the PBOT-specific hardware. The code reads sensor inputs and changes the motor direction accordingly using modular functions for forward, left turn, right turn, reverse, and stop.
