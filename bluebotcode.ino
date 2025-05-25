@@ -2,7 +2,6 @@
 #include <Wire.h>
 #include "eGizmo_PBOT2018.h"
 
-
 eGizmo_PBOT2018 PBOT;
 int SP1 = 67;
 
